@@ -1,5 +1,5 @@
 # Projeto intrgrador  2
-Ana Paula de Oliveira e  Debora Santos oliveira .
+Ana Paula de Oliveira e  Débora Santos Oliveira .
 ## Build Setup
 
 ```bash
